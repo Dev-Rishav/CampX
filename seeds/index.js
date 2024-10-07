@@ -46,6 +46,8 @@ const seedDB=async()=>{
               ]
         })
         await camp.save();
+        console.log("seeding done!");
+        
     }
 }
 

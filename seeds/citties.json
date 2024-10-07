@@ -1,0 +1,94 @@
+[
+    {
+      "city": "Rishikesh",
+      "latitude": 30.1033,
+      "longitude": 78.2948,
+      "state": "Uttarakhand",
+      "price": 1500,
+      "description": "Camp alongside the Ganga River with a stunning view of the Himalayas. Enjoy river rafting, bonfires, and yoga sessions.",
+      "title": "Ganga River Camp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.2948, 30.1033]
+      },
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/dgr21eiov/image/upload/v1724409219/CampX/fyagx6bav08zvvkztxyy.jpg",
+          "filename": "CampX/fyagx6bav08zvvkztxyy"
+        },
+        {
+          "url": "https://res.cloudinary.com/dgr21eiov/image/upload/v1724409220/CampX/tqzpadvjoxmpvntzrrin.jpg",
+          "filename": "CampX/tqzpadvjoxmpvntzrrin"
+        }
+      ]
+    },
+    {
+      "city": "Pushkar",
+      "latitude": 26.4896,
+      "longitude": 74.55,
+      "state": "Rajasthan",
+      "price": 1200,
+      "description": "Experience the tranquility of the desert with luxury tents. Camel safaris and local cultural performances are highlights.",
+      "title": "Desert Night Camp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [74.55, 26.4896]
+      },
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/dgr21eiov/image/upload/v1724409596/CampX/Desert%20Night%20Camp-1.jpg",
+          "filename": "CampX/Desert Night Camp-1"
+        },
+        {
+          "url": "https://res.cloudinary.com/dgr21eiov/image/upload/v1724409597/CampX/Desert%20Night%20Camp-2.jpg",
+          "filename": "CampX/Desert Night Camp-2"
+        }
+      ]
+    },
+    {
+      "city": "Manali",
+      "latitude": 32.2396,
+      "longitude": 77.1887,
+      "state": "Himachal Pradesh",
+      "price": 1800,
+      "description": "Located in the heart of the mountains, this camp offers panoramic views and access to some of the best trekking routes.",
+      "title": "Mountain View Camp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.1887, 32.2396]
+      },
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/dgr21eiov/image/upload/v1724409903/CampX/MountainViewCamp-1.jpg",
+          "filename": "CampX/MountainViewCamp-1"
+        },
+        {
+          "url": "https://res.cloudinary.com/dgr21eiov/image/upload/v1724409903/CampX/MountainViewCamp-2.jpg",
+          "filename": "CampX/MountainViewCamp-2"
+        }
+      ]
+    },
+    {
+      "city": "Coorg",
+      "latitude": 12.3375,
+      "longitude": 75.8069,
+      "state": "Karnataka",
+      "price": 2000,
+      "description": "Nestled in coffee plantations, enjoy nature walks, bird watching, and plantation tours in this serene campsite.",
+      "title": "Coffee Plantation Camp",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.8069, 12.3375]
+      },
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/dgr21eiov/image/upload/v1724410122/CampX/Coffeecamp-1.webp",
+          "filename": "CampX/Coffeecamp-1"
+        },
+        {
+          "url": "https://res.cloudinary.com/dgr21eiov/image/upload/v1724410122/CampX/Coffeecamp-2.webp",
+          "filename": "CampX/Coffeecamp-2"
+        }
+      ]
+    }
+]
